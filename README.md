@@ -19,7 +19,7 @@
 [**功能特性**](#-功能特性) · [**快速开始**](#-快速开始) · [**推送效果**](#-推送效果) · [**完整指南**](docs/full-guide.md) · [**常见问题**](docs/FAQ.md) · [**更新日志**](docs/CHANGELOG.md)
 
 简体中文 | [English](docs/README_EN.md) | [繁體中文](docs/README_CHT.md)
-
+action sec：99ad19cd0a8e323dced2587592083795
 </div>
 
 ## 💖 赞助商 (Sponsors)
